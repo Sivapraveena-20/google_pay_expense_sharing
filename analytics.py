@@ -1,14 +1,13 @@
 import pandas as pd
 
-
 class AnalyticsMixin:
     def spend_by_payer(self):
         
-        """Total amount each person has paid upfront (before splitting)."""
+        """Total amount each person has paid before splitting."""
         return self.ledger.groupby("payer")["amount"].sum().round(2)
 
     def spend_by_category(self):
-        """Total group spend per category, e.g. Food, Accommodation."""
+        """Total group spend per category"""
         return self.ledger.groupby("category")["amount"].sum().round(2)
 
     def spend_over_time(self):
