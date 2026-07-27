@@ -138,6 +138,6 @@ Carol pays Alice: Rs.170.00
 
 **[Sivapraveena Palanisamy]**
 - Email: vishalisibi@.com
-- LinkedIn: [Sivapraveena](https://www.linkedin.com/in/sivapraveena-palanisamy-/)
+- LinkedIn: [Sivapraveena_Palanisamy](https://www.linkedin.com/in/sivapraveena-palanisamy-/)
 
   
