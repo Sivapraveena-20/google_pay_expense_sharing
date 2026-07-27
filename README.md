@@ -133,3 +133,11 @@ Carol pays Alice: Rs.170.00
 - No currency conversion — assumes all amounts are in the same currency (Rs.).
 - Could add a simple CLI or web front-end for entering expenses instead of
   editing `main.py` directly.
+
+## Author
+
+**[Sivapraveena Palanisamy]**
+- Email: vishalisibi@.com
+- LinkedIn: [Sivapraveena](https://www.linkedin.com/in/sivapraveena-palanisamy-/)
+
+  
