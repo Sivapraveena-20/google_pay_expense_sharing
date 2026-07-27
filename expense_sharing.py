@@ -5,7 +5,6 @@ from edge_cases import EdgeCasesMixin
 from analytics import AnalyticsMixin
 from visualization import VisualizationMixin
 
-
 class ExpenseSharing(
     DataModelMixin,
     BalancesMixin,
